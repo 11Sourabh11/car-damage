@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Virtual environments
+venv/
+env/
+
+# FastAPI or Flask
+instance/
+*.db
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code and other IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model files (optional, if large)
+*.pt
+*.onnx
